@@ -13,7 +13,7 @@ class Paddle extends Entity {
         this.vy = 0;
         // set scale
         this.scale.x = 0.1;
-        this.scale.y = 1;
+        this.scale.y = 1.5;
     }
 };
 
